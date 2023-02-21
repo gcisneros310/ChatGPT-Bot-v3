@@ -38,11 +38,11 @@ For help getting an OpenAI API key, please visit [here](https://help.openai.com/
 For help getting a Discord API key for your bot, refer [here](https://docs.discordbotstudio.org/setting-up-dbs/finding-your-bot-token)_
 
 5. Install the required chatgpt package by running the following command in the terminal:
-
 ```npm install chatgpt```
-6. Before starting the bot, you must deploy the command for sending prompts to the API. You can do this by running this command:
 
+6. Before starting the bot, you must deploy the command for sending prompts to the API. You can do this by running this command:
 ```node deploy-commands.js```
+
 This will load the commands to the bot. At the moment there is only one command but if you want to add more functionality, feel free to create your own. I am also receptive to ideas for commands to integrate. 
 
 7. Start the Discord bot by running the following command in the terminal:
