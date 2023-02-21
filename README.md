@@ -2,6 +2,8 @@
 
 This is a basic Discord bot that allows users to communicate with ChatGPT! 
 
+![alt text](https://github.com/gcisneros310/ChatGPT-Bot-v3/blob/master/sample%20images/response%20sample.png)
+
 Users can send prompts to the bot using a simple slash command, and the bot will reply quickly within Discord. The bot also tracks conversations and can remember answers from previous prompts.
 
 This bot was developed using an unofficial Node.js package client called chatgpt. For more information on the package and how to integrate it for your own work, please visit the GitHub page [here.](https://github.com/transitive-bullshit/chatgpt-api)
