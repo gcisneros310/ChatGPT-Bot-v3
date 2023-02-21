@@ -1,4 +1,4 @@
-#**ChatGPT Discord Bot**
+# **ChatGPT Discord Bot**
 
 This is a basic Discord bot that allows users to communicate with ChatGPT! 
 
