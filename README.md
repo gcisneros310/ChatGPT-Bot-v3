@@ -7,25 +7,27 @@ Users can send prompts to the bot, and the bot will reply quickly within Discord
 This bot was developed using an unofficial Node.js package client called chatgpt. For more information on the package and how to integrate it for your own work, please visit the GitHub page [here.](https://github.com/transitive-bullshit/chatgpt-api)
 
 **Table of Contents**
-
+    
+    Prerequisites
     Installation
     Usage
 
 
 **Installation**
-Download the source code from my repository on GitHub.
+1. Download the source code from my repository on GitHub.
 
-Open the source code in VS Code or your preferred text editor.
+2. Open the source code in VS Code or your preferred text editor.
 
-Create a .env file in the root directory of the project.
+3. Create a .env file in the root directory of the project.
 
-Insert the following code into the .env file:
+4. Insert the following code into the .env file:
 
 makefile
 
-DISCORD_TOKEN=your_discord_bot_token_here
+DISCORD_TOKEN=**your_discord_bot_token_here**
+OPENAI_TOKEN=**your_open_ai_token_here**
 
-Note: Replace your_discord_bot_token_here with your actual Discord bot token.
+Note: Replace **your_discord_bot_token_here** and **your_open_ai_token_here** with your actual Discord bot token.
 
 Install the required dependencies by running the following command in the terminal:
 
@@ -46,5 +48,4 @@ Note: You may need to invite your bot to your Discord server before it can inter
 [Include step-by-step instructions on how to install and run your project. Be sure to include any dependencies or prerequisites.]
 **Usage**
 
-[Provide examples of how to use your project, including any relevant command line arguments or options.]
 
