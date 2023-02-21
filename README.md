@@ -27,7 +27,7 @@ DISCORD_TOKEN=your_discord_bot_token_here
 OPENAI_TOKEN=your_open_ai_token_here
 ```
 
-Note: Replace **your_discord_bot_token_here** and **your_open_ai_token_here** with your actual Discord bot token. For help getting an OpenAI API key, please visit [here](https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key)
+_Note: Replace **your_discord_bot_token_here** and **your_open_ai_token_here** with your actual Discord bot token. For help getting an OpenAI API key, please visit [here](https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key)_
 
 Install the required dependencies by running the following command in the terminal:
 
