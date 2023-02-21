@@ -43,12 +43,13 @@ npm install chatgpt
 ```
 
 6. Before starting the bot, you must deploy the command for sending prompts to the API. You can do this by running this command:
-```node deploy-commands.js```
+```
+node deploy-commands.js
+```
 
 This will load the commands to the bot. At the moment there is only one command but if you want to add more functionality, feel free to create your own. I am also receptive to ideas for commands to integrate. 
 
 7. Start the Discord bot by running the following command in the terminal:
-
 ```
 node index.js
 ```
