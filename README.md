@@ -22,10 +22,10 @@ This bot was developed using an unofficial Node.js package client called chatgpt
 
 4. Insert the following code into the .env file:
 
-makefile
-
+```javascript
 DISCORD_TOKEN=**your_discord_bot_token_here**
 OPENAI_TOKEN=**your_open_ai_token_here**
+```
 
 Note: Replace **your_discord_bot_token_here** and **your_open_ai_token_here** with your actual Discord bot token.
 
