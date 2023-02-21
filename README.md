@@ -9,8 +9,8 @@ This bot was developed using an unofficial Node.js package client called chatgpt
 **Table of Contents**
     
     Prerequisites
-    Installation
-    Usage
+- [Introduction](#introduction)
+- [Usage](#usage)
 
 **Prerequisites**
 Before attempting to run this bot locally on your computer, please have a bot application created on your Discord Developer Portal prior to installation. Refer to [here](https://discordjs.guide/preparations/setting-up-a-bot-application.html) for easy instructions.
