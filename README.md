@@ -2,7 +2,7 @@
 
 This is a basic Discord bot that allows users to communicate with ChatGPT! 
 
-![alt text](https://github.com/gcisneros310/ChatGPT-Bot-v3/blob/master/sample%20images/response%20sample.png)
+![alt text](https://github.com/gcisneros310/ChatGPT-Bot-v3/blob/master/sample%20images/result.png)
 
 Users can send prompts to the bot using a simple slash command, and the bot will reply quickly within Discord. The bot also tracks conversations and can remember answers from previous prompts.
 
@@ -57,5 +57,7 @@ node index.js
 ```
 
 Your Discord bot should now be running on your local server! Go ahead and test it out by typing /send in your Discord server. Make sure to fill in the required **prompt** section of the command to receive a response.
+
+![alt text](https://github.com/gcisneros310/ChatGPT-Bot-v3/blob/master/sample%20images/prompt%20sample.png)
 
 _Note: You may need to invite your bot to your Discord server before it can interact with users. To do this, you can follow the instructions in the Discord Developer Portal._
