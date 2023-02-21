@@ -6,15 +6,19 @@ Users can send prompts to the bot using a simple slash command, and the bot will
 
 This bot was developed using an unofficial Node.js package client called chatgpt. For more information on the package and how to integrate it for your own work, please visit the GitHub page [here.](https://github.com/transitive-bullshit/chatgpt-api)
 
+
 **Table of Contents**
     
-    Prerequisites
+- [Prerequisites](#prerequisites)
 - [Introduction](#introduction)
-- [Usage](#usage)
 
+<a name="prerequisites"></a>
 **Prerequisites**
 Before attempting to run this bot locally on your computer, please have a bot application created on your Discord Developer Portal prior to installation. Refer to [here](https://discordjs.guide/preparations/setting-up-a-bot-application.html) for easy instructions.
+Also make sure you have the latest version of Node.js installed on your local machine.
 
+
+<a name="introduction"></a>
 **Installation**
 1. Download the source code from my repository on GitHub.
 
@@ -33,22 +37,12 @@ _Note: Replace **your_discord_bot_token_here** and **your_open_ai_token_here** w
 For help getting an OpenAI API key, please visit [here](https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key)
 For help getting a Discord API key for your bot, refer [here](https://docs.discordbotstudio.org/setting-up-dbs/finding-your-bot-token)_
 
-Install the required dependencies by running the following command in the terminal:
-
+5. Install the required chatgpt package by running the following command in the terminal:
+```npm install chatgpt```
 
 Start the Discord bot by running the following command in the terminal:
+```node index.js```
 
-sql
+Your Discord bot should now be running on your local server! Go ahead and test it out by typing /send in your Discord server. Make sure to fill in the required **prompt** section of the command to receive a response.
 
-npm start
-
-Note: Make sure you have Node.js installed on your local machine before running this command.
-
-Your Discord bot should now be running on your local server! Go ahead and test it out by typing commands in your Discord server.
-
-Note: You may need to invite your bot to your Discord server before it can interact with users. To do this, you can follow the instructions in the Discord Developer Portal.
-
-[Include step-by-step instructions on how to install and run your project. Be sure to include any dependencies or prerequisites.]
-**Usage**
-
-
+_Note: You may need to invite your bot to your Discord server before it can interact with users. To do this, you can follow the instructions in the Discord Developer Portal._
