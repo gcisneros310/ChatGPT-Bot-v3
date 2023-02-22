@@ -38,7 +38,9 @@ OPENAI_TOKEN=your_open_ai_token_here
 ```
 
 _Note: Replace **your_discord_bot_token_here** and **your_open_ai_token_here** with your actual Discord bot token. 
+
 For help getting an OpenAI API key, please visit [here](https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key)
+
 For help getting a Discord API key for your bot, refer [here](https://docs.discordbotstudio.org/setting-up-dbs/finding-your-bot-token)_
 
 5. Install the required chatgpt package by running the following command in the terminal:
